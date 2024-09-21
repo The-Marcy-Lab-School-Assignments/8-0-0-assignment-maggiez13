@@ -40,5 +40,5 @@ app.get('*', (req, res) => { // The wildcard GET path will catch all other GET r
 });
 
 // listen 
-const port = 8080; 
+const port = process.env.PORT || 8080; 
 app.listen(port, () => console.log(`listening at http://localhost:${port}`)); 
