@@ -57,7 +57,8 @@ You got this!
 
 **Deployment Technical Requirements**
 
-- [ ] Your GitHub page has a link to the deployed server in the About section.
+- [x] Your GitHub page has a link to the deployed server in the About section.
+- did not let me edit the About section: https://eight-0-0-assignment-maggiez13.onrender.com/
 
 ## Part 1 - Setup
 
