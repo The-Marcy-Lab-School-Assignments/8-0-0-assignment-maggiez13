@@ -39,7 +39,7 @@ You got this!
 
 **Setup Technical Requirements**
 
-- [x] Has a `server` folder with an `index.js` file and a `package.json` file inside
+- [ ] Has a `server` folder with an `index.js` file and a `package.json` file inside
 - [x] `package.json` has `express` installed as a dependency and `nodemon` as a dev dependency
 - [x] `package.json` has a `"dev"` script that uses `nodemon` and a `"start"` script that uses `node`
 
@@ -58,6 +58,7 @@ You got this!
 **Deployment Technical Requirements**
 
 - [x] Your GitHub page has a link to the deployed server in the About section.
+<!-- Great job deploying, I was able to access the deployed link and hit all of the endpoints! Thank you for making the link accessible! -->
 - did not let me edit the About section: https://eight-0-0-assignment-maggiez13.onrender.com/
 
 ## Part 1 - Setup
